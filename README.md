@@ -12,7 +12,7 @@
 - 🛠️ Passionate about Embedded Systems and Firmware Development
 - 📡 Hands-on experience with ESP32, ESP32-CAM, PIC18, 8051 and STM32
 - 🔌 Worked with UART, SPI, I2C, ADC and PWM
-- 🌐 Developed IoT-based Smart Home Automation Projects
+- 🌐 Developed IoT-based Smart Living Space Projects
 - 🏆 1st Prize Winner – Spectrum 2K26
 - 📄 Published Research Paper: Embedded IoT Platform for Intelligent Living Space
 - 🎯 Targeting Embedded Software, Firmware and Device Driver Roles
